@@ -1,0 +1,9 @@
+
+
+import { encryptOwners } from './utils/
+DigisCreator.js';
+
+await encryptOwners([
+  "243976724389",
+  "998771529519"
+]);
